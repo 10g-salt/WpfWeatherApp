@@ -1,0 +1,29 @@
+# Ignore build and VS folders
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.log
+*.pdb
+*.psess
+
+# Ignore temporary files
+*.tmp
+*.temp
+*.bak
+
+# Ignore ReSharper
+_ReSharper*/
+*.DotSettings.user
+
+# Ignore local config files
+appsettings.Development.json
+*.local.json
+
+# Ignore system files
+Thumbs.db
+ehthumbs.db
+.DS_Store

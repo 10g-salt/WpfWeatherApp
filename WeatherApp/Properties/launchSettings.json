@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WeatherApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "OpenWeatherApiKey": "85b4f79f5fd1d0fef296cff811d0ec6c"
+      }
+    }
+  }
+}
